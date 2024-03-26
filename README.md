@@ -45,7 +45,7 @@
 
 <p><img src="https://github-readme-activity-graph.vercel.app/graph?username=n-recreate8&custom_title=%20&hide_border=true&theme=github-dark"></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=n-recreate8&show_icons=true&locale=en" alt="n-recreate8" width="48%" height="203px"/></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=n-recreate8&show_icons=true&locale=en&layout=compact" alt="n-recreate8" width="48%" height="203px"/></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=n-recreate8&show_icons=true&locale=en" alt="n-recreate8" width="45%" height="203px"/></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=n-recreate8&show_icons=true&locale=en&layout=compact" alt="n-recreate8" width="45%" height="203px"/></p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=footer&text=Thank%20You&desc=For%20Your%20Time&descAlign=76&descAlignY=80&fontSize=120" width="100%"/>
